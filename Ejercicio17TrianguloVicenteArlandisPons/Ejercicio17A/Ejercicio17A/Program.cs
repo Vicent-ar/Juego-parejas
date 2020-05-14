@@ -11,7 +11,7 @@ namespace Ejercicio17A
             int d= 1;
             float a = 1;
             float b = 1;
-            float c = 1;
+            int c = 1;
             float segmento = 1;
             float radicando = 1;
             double area = 1;
