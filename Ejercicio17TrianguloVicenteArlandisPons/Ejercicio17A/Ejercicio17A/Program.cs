@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ejercicio17A_nueva_version_mejorada
+namespace Ejercicio17A
 {
     class Program
     {
@@ -8,14 +8,14 @@ namespace Ejercicio17A_nueva_version_mejorada
         static void Main(string[] args)
         {
             
-            int d= 0;
-            float a = 0;
-            float b = 0;
-            float c = 0;
-            float segmento = 0;
-            float radicando = 0;
-            double area = 0;
-            double areaRound = 0;
+            int d= 1;
+            float a = 1;
+            float b = 1;
+            float c = 1;
+            float segmento = 1;
+            float radicando = 1;
+            double area = 1;
+            double areaRound = 1;
            
             Console.WriteLine("Intoduce las medidas de los tres lados de un triángulo, te diremos si se trata de un triangulo equilatero\ny calcularemos su área. (Las medidas se tratarán en centimetros)");
            //Para permitir que el ususaro repita las operaciones las veces que desee
@@ -267,7 +267,7 @@ namespace Ejercicio17A_nueva_version_mejorada
                 
                 }
             Console.WriteLine("HASTA LA PRÓXIMA¡");
-            
+            Console.ReadKey();
         }
         }
     }
