@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ejercicio17A
+namespace Ejercicio17A_nueva_version_mejorada
 {
     class Program
     {
@@ -267,7 +267,7 @@ namespace Ejercicio17A
                 
                 }
             Console.WriteLine("HASTA LA PRÓXIMA¡");
-            Console.ReadKey();
+            
         }
         }
     }
