@@ -1,0 +1,11 @@
+C:\Users\flval\source\repos\Ejercicio17A\Ejercicio17A\bin\Debug\netcoreapp3.1\Ejercicio17A.exe
+C:\Users\flval\source\repos\Ejercicio17A\Ejercicio17A\bin\Debug\netcoreapp3.1\Ejercicio17A.deps.json
+C:\Users\flval\source\repos\Ejercicio17A\Ejercicio17A\bin\Debug\netcoreapp3.1\Ejercicio17A.runtimeconfig.json
+C:\Users\flval\source\repos\Ejercicio17A\Ejercicio17A\bin\Debug\netcoreapp3.1\Ejercicio17A.runtimeconfig.dev.json
+C:\Users\flval\source\repos\Ejercicio17A\Ejercicio17A\bin\Debug\netcoreapp3.1\Ejercicio17A.dll
+C:\Users\flval\source\repos\Ejercicio17A\Ejercicio17A\bin\Debug\netcoreapp3.1\Ejercicio17A.pdb
+C:\Users\flval\source\repos\Ejercicio17A\Ejercicio17A\obj\Debug\netcoreapp3.1\Ejercicio17A.csprojAssemblyReference.cache
+C:\Users\flval\source\repos\Ejercicio17A\Ejercicio17A\obj\Debug\netcoreapp3.1\Ejercicio17A.AssemblyInfoInputs.cache
+C:\Users\flval\source\repos\Ejercicio17A\Ejercicio17A\obj\Debug\netcoreapp3.1\Ejercicio17A.AssemblyInfo.cs
+C:\Users\flval\source\repos\Ejercicio17A\Ejercicio17A\obj\Debug\netcoreapp3.1\Ejercicio17A.dll
+C:\Users\flval\source\repos\Ejercicio17A\Ejercicio17A\obj\Debug\netcoreapp3.1\Ejercicio17A.pdb
