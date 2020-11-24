@@ -16,6 +16,7 @@ namespace Ejercicio17A
             float radicando = 1;
             double area = 1;
             double areaRound = 1;
+            int contador = 0;
            
             Console.WriteLine("Intoduce las medidas de los tres lados de un triángulo, te diremos si se trata de un triangulo equilatero\ny calcularemos su área. (Las medidas se tratarán en centimetros)");
            //Para permitir que el ususaro repita las operaciones las veces que desee
